@@ -1,0 +1,151 @@
+{
+   "checksum": "2d326e5655f34e4842f5db71ab854d04",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13318228721853870",
+            "date_last_used": "0",
+            "guid": "fb06720c-d4b2-4f46-b444-a26d6654880e",
+            "id": "6",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13318228727942559",
+            "date_last_used": "0",
+            "guid": "c0f64fd5-b19a-4202-bafa-9ede0798792c",
+            "id": "7",
+            "name": "Traducir",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13318228729449565",
+            "date_last_used": "0",
+            "guid": "d4c5fc39-2210-4d51-8ebf-4c36a88d1334",
+            "id": "8",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13378049447285496",
+            "date_last_used": "0",
+            "guid": "0ca59486-3b78-42f1-8183-ed595c4218e6",
+            "id": "9",
+            "name": "MiEspe",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://miespe.espe.edu.ec/",
+            "visit_count": 0
+         }, {
+            "date_added": "13354055944676949",
+            "date_last_used": "13358530841607570",
+            "guid": "8f663ae3-9643-45ca-8c6c-57d493eb1cf5",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Agile Board - Jira",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://prowessagricola.atlassian.net/jira/software/projects/PAW/boards/3?issueType=10010",
+            "visit_count": 0
+         }, {
+            "date_added": "13355254352660104",
+            "date_last_used": "13358362845570273",
+            "guid": "90bc9bc9-8c78-4890-85a9-e3ff4d2f8432",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Meet - hki-onwo-ygr",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://meet.google.com/hki-onwo-ygr?pli=1&authuser=1",
+            "visit_count": 0
+         }, {
+            "date_added": "13359655510475400",
+            "date_last_used": "13363815620443154",
+            "guid": "1035d68d-a83f-48b5-8645-3fd61cdc7215",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://neetcode.io/",
+            "visit_count": 0
+         }, {
+            "date_added": "13368823150659288",
+            "date_last_used": "0",
+            "guid": "bd5afb95-edc6-4d99-991d-05ca16eca4df",
+            "id": "13",
+            "name": "CS Academy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://csacademy.com/ieeextreme-practice/",
+            "visit_count": 0
+         }, {
+            "date_added": "13376068044492852",
+            "date_last_used": "0",
+            "guid": "c7b277e2-3ea7-4e1a-bb31-6131181b3f4b",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "01 - Introduction - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1nvqTAvkSzmMdNyRRMGuw86X9iUNioAye",
+            "visit_count": 1
+         } ],
+         "date_added": "13382120835127760",
+         "date_last_used": "0",
+         "date_modified": "13378049447285496",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13382120835127763",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13382120835127766",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCA+WBZCUAQAAEgAqGFE2a2xvWWh4ZmtSYXQrb1QwT24yYlE9PUgDoAYHEq4BCA0SqQEKHHAxWm1lL3NWK2xmaWtSbjlQQ29NS2RrOEx2MD0SJGJkNWFmYjk1LWVkYzYtNGQ5OS05OTFkLTA1Y2ExNmVjYTRkZhgAIAAoADDntvjZlzI4jLf42ZcyQIy3+NmXMkocMzNjYW14UEpqbGN6REFzUC85Sm1paFRFb0RZPVogIh7//UlhS0FsTUh1bXJhNzYrVjVFYk5qdDY4YnF1TT1lyEWIKMI+AmAFEq4BCAoSqQEKHGdrcUNrTjhzVzlJU0VrM0ZLZnFPTSswaGJaYz0SJDhmNjYzYWUzLTk2NDMtNDVjYS04YzZjLTU3ZDQ5M2ViMWNmNRgAIAAoADC7ybvZgzI4xtmx2OAxQMbZsdjgMUocYUJuR0hxcnRwZ3RDU3JXdXlZMTEzbmY2d01rPVogIh7/u3ZMUk9qeEVFMnBpZ3l5RE45S0lkWHA0Qzg3Zz1ljTMvMcI+AmAFEq4BCAwSqQEKHG8wSWpuSWJOcC8zdER6U1NHclNrN0o2UTR3cz0SJDEwMzVkNjhkLWE4M2YtNDhiNS04NjQ1LTNmZDYxY2RjNzIxNRgAIAAoADDpnZaGhTI434+8xvUxQN+PvMb1MUocUFQxTExvQWlzSkt4eWVOOFVaMzgzVjBJcjZ3PVogIh7/+zR2MzUwQWw4VmNFMTY2dW9tVGYvUkszYlAxdz1lL26dlsI+AmAFEq4BCAkSqQEKHFI3RDgrazJQUWo2QllwMW01K1ViWFBibTROYz0SJDBjYTU5NDg2LTNiNzgtNDJmMS04MTgzLWVkNTk1YzQyMThlNhgAIAAoADCOrJaAyTI4mfOwiboyQJnzsIm6MkocQmw0SDc1NXc4eTJRdDNXMDE1U3lOem5ibnZNPVogIh7/qlhMc3hpM2VhclRYV0FGTFA3NzZmT1ZncHlhMD1lcOLxIcI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDI2MzE0NTNlLTk2OWQtNTM3Ni1hOGJlLTM2NDIyMDZhNDdkNBgAIAAoADDO29nTsTA4xYu38u4vQMWLt/LuL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgGEqgBChxwTEo1cVJmREQvcHlyMnZSUjdYajhiTDBSeDg9EiRmYjA2NzIwYy1kNGIyLTRmNDYtYjQ0NC1hMjZkNjY1NDg4MGUYACAAKAAwtszYmuIxOJeKi8eTMUCXiovHkzFKHElUbXprVmNXc3FOZkplM1llUDdFNnpPUkJIST1aHyId0GhWdGZvUm5tZHFzL1k5TzJjY1dDWlVpbUZkbz1lOPk5M8I+AmAFEq0BCAgSqAEKHFVoYVpVdWpvUDNkZ1p0Vjdac3l4RXo1bzlsMD0SJGQ0YzVmYzM5LTIyMTAtNGQ1MS04ZWJmLTRjMzZhODhkMTMzNBgAIAAoADC4zNia4jE46ImLx5MxQOiJi8eTMUocVUxhVmJOUXp0VXhYM0hwMVJNMkZZU0NNdjZRPVofIh30b1d3THNUK1YzbTFHMEZwMWt5V3o5RXBzbU1FPWWbPYW2wj4CYAUSrQEIBxKoAQocVEloZXgyZk9mVjNHTzlnN0xyTjZ2ZWlSSndZPRIkYzBmNjRmZDUtYjE5YS00MjAyLWJhZmEtOWVkZTA3OTg3OTJjGAAgACgAMLnM2JriMTiAiovHkzFAgIqLx5MxShxJWC93YmVLZVlPOUd1czgydHZ3UWVmbkQ3Skk9Wh8iHeh0QW5WWFZFeVVrdmowTjRRYVg1b1FWVDM4anM9ZcXPkAHCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQzZTg5OWE4Yy1lOTkwLTViODYtYjJlOC00MjFhNGFjNGY2NTYYACAAKAAwztvZ07EwOMiKt/LuL0DIirfy7i9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrgEIDhKpAQocVzJZaGlSaS9qWWtMN2E4R2QrMzRmSG5na1hVPRIkYzdiMjc3ZTItM2VhNy00ZTFhLWJiMzEtNjEzMTE4MWIzZjRiGAAgACgAMLvDydiyMjjLxcnYsjJAy8XJ2LIyShxZaHJmRDA4TzZmMzdpNWVnUnVqNWgyVXBjMDg9WiAiHv//dWhlN3E5WFVRNURoSFB6bnJZcm0rdVBhZEZvPWX6kd7bwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZDU2NjczMWQtOTM3Ni01ODYzLTljOTgtOWM5ZjRmZDQzMGEzGAAgACgAMM7b2dOxMDi5irfy7i9AuYq38u4vShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq4BCAsSqQEKHCt5NG56cWhnNjB3UDExbFhOLy85QU1ESmhlOD0SJDkwYmM5YmM5LThjNzgtNDg5MC04NWE5LWUzZmY0ZDJmODQzMhgAIAAoADDu5Yre8DE459/qk+UxQOff6pPlMUocMER2NDJjM2JLY0FHVk55UlNLcFlKTFFKSzc0PVogIh7/7lZXbVM0dXdJWUVRVTJtV2FuajZ4TGZJVU42OD1l9CL1G8I+AmAFMAA4AA==",
+   "version": 1
+}
